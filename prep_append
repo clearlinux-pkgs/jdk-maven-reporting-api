@@ -1,0 +1,1 @@
+python3 /usr/share/java-utils/mvn_alias.py : org.apache.maven.shared:maven-reporting-api
