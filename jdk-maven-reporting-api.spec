@@ -4,7 +4,7 @@
 #
 Name     : jdk-maven-reporting-api
 Version  : 3.0
-Release  : 1
+Release  : 2
 URL      : http://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0-source-release.zip
 Source0  : http://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0-source-release.zip
 Summary  : No detailed summary available
